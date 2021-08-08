@@ -31,3 +31,9 @@
 *.out
 *.app
 /cmake-build-debug/
+
+#CLion
+.idea
+
+#MacOs
+.DS_STORE
